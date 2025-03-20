@@ -84,6 +84,6 @@ Feel free to explore my work and reach out for collaboration opportunities!
 
 - GitHub: [shootingStar10](https://github.com/shootingStar10)
 - Kaggle: [Vishrut Mishra](https://www.kaggle.com/vishrutmishra)
-- LinkedIn: [LinkedIn Profile](#) (Add your LinkedIn link)
+- LinkedIn: [Vishrut Mishra](https://www.linkedin.com/in/vishrut-mishra-220a79a9/)
 
 🚀 **Let's build something amazing together!**
